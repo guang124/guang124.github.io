@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on Hugo tranquilpeak theme</title>
+    <link>https://example.org/tags/tag2/</link>
+    <description>Recent content in Tag2 on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Aug 2018 08:52:56 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>0814,hello</title>
+      <link>https://example.org/2018/08/0814hello/</link>
+      <pubDate>Tue, 14 Aug 2018 08:52:56 +0800</pubDate>
+      
+      <guid>https://example.org/2018/08/0814hello/</guid>
+      <description>&lt;p&gt;一百多年前的法国学者勒庞是个保守派社会精英，他反对传统的国家主义，反对新兴的集体主义，推崇英美式的自由主义。他生活在法国革命不断的年代里，经历过巴黎公社和法兰西第二帝国等历史时期，亲眼目睹了法国民众在传统的信仰与权威崩塌后，在近乎宗教般的革命激情中，退化成一群野蛮、善变、极端的原始人，在少数人的怂恿下，民众会毫不犹豫地做出骇人听闻的暴行，事后却要求爱国主义的荣誉勋章。于是，勒庞在他的传世名作《乌合之众》中总结道：民众缺乏理性，依赖于信仰与权威的引导，用想象来判断，模仿他人行为，简而言之，民众是盲从的。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
