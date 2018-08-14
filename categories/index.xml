@@ -2,29 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 欲饮琵琶</title>
-    <link>https://example.org/categories/</link>
+    <link>https://guang124.github.io/categories/</link>
     <description>Recent content in Categories on 欲饮琵琶</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://guang124.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Category</title>
-      <link>https://example.org/categories/category/</link>
+      <link>https://guang124.github.io/categories/category/</link>
       <pubDate>Tue, 14 Aug 2018 08:52:56 +0800</pubDate>
       
-      <guid>https://example.org/categories/category/</guid>
+      <guid>https://guang124.github.io/categories/category/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subcategory</title>
-      <link>https://example.org/categories/subcategory/</link>
+      <link>https://guang124.github.io/categories/subcategory/</link>
       <pubDate>Tue, 14 Aug 2018 08:52:56 +0800</pubDate>
       
-      <guid>https://example.org/categories/subcategory/</guid>
+      <guid>https://guang124.github.io/categories/subcategory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>方法论</title>
+      <link>https://guang124.github.io/categories/%E6%96%B9%E6%B3%95%E8%AE%BA/</link>
+      <pubDate>Mon, 13 Aug 2018 10:52:56 +0800</pubDate>
+      
+      <guid>https://guang124.github.io/categories/%E6%96%B9%E6%B3%95%E8%AE%BA/</guid>
       <description></description>
     </item>
     
