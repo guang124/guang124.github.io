@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 欲饮琵琶</title>
-    <link>https://guang124.github.io/categories/</link>
+    <link>https://www.guangbei.xyz/categories/</link>
     <description>Recent content in Categories on 欲饮琵琶</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     
-	<atom:link href="https://guang124.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.guangbei.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Category</title>
-      <link>https://guang124.github.io/categories/category/</link>
+      <link>https://www.guangbei.xyz/categories/category/</link>
       <pubDate>Tue, 14 Aug 2018 08:52:56 +0800</pubDate>
       
-      <guid>https://guang124.github.io/categories/category/</guid>
+      <guid>https://www.guangbei.xyz/categories/category/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subcategory</title>
-      <link>https://guang124.github.io/categories/subcategory/</link>
+      <link>https://www.guangbei.xyz/categories/subcategory/</link>
       <pubDate>Tue, 14 Aug 2018 08:52:56 +0800</pubDate>
       
-      <guid>https://guang124.github.io/categories/subcategory/</guid>
+      <guid>https://www.guangbei.xyz/categories/subcategory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>方法论</title>
-      <link>https://guang124.github.io/categories/%E6%96%B9%E6%B3%95%E8%AE%BA/</link>
+      <link>https://www.guangbei.xyz/categories/%E6%96%B9%E6%B3%95%E8%AE%BA/</link>
       <pubDate>Wed, 15 Aug 2018 08:55:08 +0800</pubDate>
       
-      <guid>https://guang124.github.io/categories/%E6%96%B9%E6%B3%95%E8%AE%BA/</guid>
+      <guid>https://www.guangbei.xyz/categories/%E6%96%B9%E6%B3%95%E8%AE%BA/</guid>
       <description></description>
     </item>
     
     <item>
       <title>转载</title>
-      <link>https://guang124.github.io/categories/%E8%BD%AC%E8%BD%BD/</link>
+      <link>https://www.guangbei.xyz/categories/%E8%BD%AC%E8%BD%BD/</link>
       <pubDate>Wed, 15 Aug 2018 08:55:08 +0800</pubDate>
       
-      <guid>https://guang124.github.io/categories/%E8%BD%AC%E8%BD%BD/</guid>
+      <guid>https://www.guangbei.xyz/categories/%E8%BD%AC%E8%BD%BD/</guid>
       <description></description>
     </item>
     
     <item>
       <title>随想集</title>
-      <link>https://guang124.github.io/categories/%E9%9A%8F%E6%83%B3%E9%9B%86/</link>
+      <link>https://www.guangbei.xyz/categories/%E9%9A%8F%E6%83%B3%E9%9B%86/</link>
       <pubDate>Wed, 15 Aug 2018 08:55:08 +0800</pubDate>
       
-      <guid>https://guang124.github.io/categories/%E9%9A%8F%E6%83%B3%E9%9B%86/</guid>
+      <guid>https://www.guangbei.xyz/categories/%E9%9A%8F%E6%83%B3%E9%9B%86/</guid>
       <description></description>
     </item>
     
