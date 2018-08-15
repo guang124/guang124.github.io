@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://guang124.github.io/2018/08/0815%E6%95%A2%E4%BA%8E%E5%B0%9D%E8%AF%95%E8%BD%AC/</loc>
+    <lastmod>2018-08-15T08:55:08+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://guang124.github.io/2018/08/%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97%E4%B9%A6%E8%AF%84test/</loc>
     <lastmod>2018-08-14T08:52:56+08:00</lastmod>
   </url>
@@ -45,7 +50,7 @@
   
   <url>
     <loc>https://guang124.github.io/post/</loc>
-    <lastmod>2018-08-14T08:52:56+08:00</lastmod>
+    <lastmod>2018-08-15T08:55:08+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,13 +91,37 @@
   
   <url>
     <loc>https://guang124.github.io/categories/%E6%96%B9%E6%B3%95%E8%AE%BA/</loc>
-    <lastmod>2018-08-13T10:52:56+08:00</lastmod>
+    <lastmod>2018-08-15T08:55:08+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://guang124.github.io/</loc>
-    <lastmod>2018-08-14T08:52:56+08:00</lastmod>
+    <lastmod>2018-08-15T08:55:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guang124.github.io/tags/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/</loc>
+    <lastmod>2018-08-15T08:55:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guang124.github.io/tags/%E8%BD%AC%E8%BD%BD/</loc>
+    <lastmod>2018-08-15T08:55:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guang124.github.io/categories/%E8%BD%AC%E8%BD%BD/</loc>
+    <lastmod>2018-08-15T08:55:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guang124.github.io/categories/%E9%9A%8F%E6%83%B3%E9%9B%86/</loc>
+    <lastmod>2018-08-15T08:55:08+08:00</lastmod>
     <priority>0</priority>
   </url>
   
