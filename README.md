@@ -3,4 +3,4 @@
 
 https://www.guangbei.xyz/
 
-基于Hugo+hugo-tranquilpeak-theme
+基于Hugo+hugo-tranquilpeak-theme的静态博客
